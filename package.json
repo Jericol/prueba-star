@@ -31,10 +31,10 @@
     "react-carousel3": "^1.0.0",
     "react-dom": "^18.2.0",
     "react-hook-dom": "^1.0.2",
-    "react-hook-form": "^7.44.3",
+    "react-hook-form": "^7.45.4",
     "react-icons": "^4.9.0",
     "react-redux": "^8.0.5",
-    "react-router-dom": "^6.12.1",
+    "react-router-dom": "^6.15.0",
     "swiper": "^9.4.1",
     "tw-elements-react": "^1.0.0-alpha1"
   },
@@ -42,12 +42,12 @@
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react-swc": "^3.0.0",
-    "autoprefixer": "^10.4.14",
+    "autoprefixer": "^10.4.15",
     "eslint": "^8.38.0",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^5.0.0-canary-613e6f5fc-20230616",
     "eslint-plugin-react-refresh": "^0.3.5",
-    "postcss": "^8.4.24",
+    "postcss": "^8.4.28",
     "tailwindcss": "^3.3.3",
     "vite": "^4.3.2"
   }
